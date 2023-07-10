@@ -1,0 +1,8 @@
+*.pt
+*.pkl
+*.gif
+*.png
+*.pdf
+*.mrc
+__pycache__/
+.ipynb_checkpoints/
