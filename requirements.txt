@@ -1,5 +1,5 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.13.1+cu117
+torch>=1.13.1+cu117
 gradoptics==0.0.4
 numpy==1.23.1
 matplotlib==3.5.2
