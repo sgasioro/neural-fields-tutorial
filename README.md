@@ -1,2 +1,2 @@
 # Neural Fields for 3D Reconstruction Tutorial
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgasioro/neural-fields-tutorial/blob/master/Neural%20Fields%20for%203D%20Reconstruction%20Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgasioro/neural-fields-tutorial/blob/master/Neural%20Fields%20for%203D%20Reconstruction%20Tutorial.ipynb)
